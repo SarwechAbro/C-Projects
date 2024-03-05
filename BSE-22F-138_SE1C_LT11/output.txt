@@ -1,0 +1,2 @@
+String After Replacing 'Integer' by '$'
+sarwech has $ legs aand $ arms
